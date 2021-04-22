@@ -13,15 +13,15 @@ Por se tratar de algo muito pessoal, o prazo permanecerá sempre aberto
 O repositório será utilizado para experimentos e testes em diversas tecnologias, frameworks e patterns, tentarei documentar cada implementação de forma que eu e qualquer pessoa que venha a inspecionar os códigos consiga entender.
 
 ## Sopa de letrinhas
-_SOLID_
-_DDD_
-_DRY_
-_KISS_
-_YAGNI_
-_TDD_
-_BDD_
-_RESTFull_
-_BFF_
+* _SOLID_
+* _DDD_
+* _DRY, DIE_
+* _KISS_
+* _YAGNI_
+* _TDD_
+* _BDD_
+* _RESTFull_
+* _BFF_
 
 ## Linguagens
 * _C#_
