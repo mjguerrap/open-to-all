@@ -22,6 +22,8 @@ O repositório será utilizado para experimentos e testes em diversas tecnologia
 * _BDD_
 * _RESTFull_
 * _BFF_
+* _SoC_
+* _DDIY_
 
 ## Linguagens
 * _C#_
